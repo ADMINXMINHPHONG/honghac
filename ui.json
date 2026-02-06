@@ -1,6 +1,6 @@
 {
     "app_control": {
-        "status": 2,
+        "status": 1,
         "message_title": "Cập nhật phiên bản mới",
         "message_body": "Phiên bản hiện tại không còn được hỗ trợ. Vui lòng tải phiên bản mới để tiếp tục sử dụng.",
         "button_text": "TẢI NGAY",
