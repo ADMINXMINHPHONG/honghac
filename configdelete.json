@@ -1,0 +1,28 @@
+{
+    "ff_th": [
+        {
+            "id": "guns",
+            "name": "KHÔI PHỤC TOÀN BỘ SÚNG",
+            "description": "Gỡ bỏ tất cả mod súng và dùng súng gốc",
+            "url": "https://link-to-original-guns-th.zip"
+        },
+        {
+            "id": "chars",
+            "name": "KHÔI PHỤC TOÀN BỘ NHÂN VẬT",
+            "description": "Gỡ bỏ tất cả mod nhân vật và dùng đồ gốc",
+            "url": "https://link-to-original-chars-th.zip"
+        }
+    ],
+    "ff_max": [
+        {
+            "id": "guns",
+            "name": "KHÔI PHỤC TOÀN BỘ SÚNG (MAX)",
+            "url": "https://link-to-original-guns-max.zip"
+        },
+        {
+            "id": "chars",
+            "name": "KHÔI PHỤC TOÀN BỘ NHÂN VẬT (MAX)",
+            "url": "https://link-to-original-chars-max.zip"
+        }
+    ]
+}
