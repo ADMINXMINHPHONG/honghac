@@ -1,28 +1,42 @@
 {
     "ff_th": [
         {
-            "id": "guns",
-            "name": "KHÔI PHỤC TOÀN BỘ SÚNG",
-            "description": "Gỡ bỏ tất cả mod súng và dùng súng gốc",
-            "url": "https://link-to-original-guns-th.zip"
+            "id": "alok",
+            "name": "Alok",
+            "url": "https://link-to-original-alok.zip",
+            "icon": "https://img.upanh.tv/2026/02/08/alok_icon.png"
         },
         {
-            "id": "chars",
-            "name": "KHÔI PHỤC TOÀN BỘ NHÂN VẬT",
-            "description": "Gỡ bỏ tất cả mod nhân vật và dùng đồ gốc",
-            "url": "https://link-to-original-chars-th.zip"
+            "id": "ig",
+            "name": "ig",
+            "url": "https://link-to-original-ig.zip",
+            "icon": "https://img.upanh.tv/2026/02/08/ig_icon.png"
+        },
+        {
+            "id": "ak",
+            "name": "Súng AK Rồng Xanh",
+            "url": "https://link-to-original-ak.zip",
+            "icon": "https://img.upanh.tv/2026/02/08/ak_icon.png"
+        },
+        {
+            "id": "kelly",
+            "name": "Kelly",
+            "url": "https://link-to-original-kelly.zip",
+            "icon": "https://img.upanh.tv/2026/02/08/kelly_icon.png"
+        },
+        {
+            "id": "mp40",
+            "name": "Skin MP40",
+            "url": "https://link-to-original-mp40.zip",
+            "icon": "https://img.upanh.tv/2026/02/08/mp40_icon.png"
         }
     ],
     "ff_max": [
         {
-            "id": "guns",
-            "name": "KHÔI PHỤC TOÀN BỘ SÚNG (MAX)",
-            "url": "https://link-to-original-guns-max.zip"
-        },
-        {
-            "id": "chars",
-            "name": "KHÔI PHỤC TOÀN BỘ NHÂN VẬT (MAX)",
-            "url": "https://link-to-original-chars-max.zip"
+            "id": "guns_max",
+            "name": "Khôi phục Súng (MAX)",
+            "url": "https://link-to-original-guns-max.zip",
+            "icon": "https://img.upanh.tv/2026/02/08/gun_max_icon.png"
         }
     ]
 }
