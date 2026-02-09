@@ -1,42 +1,85 @@
 {
-    "ff_th": [
+    "app_control": {
+        "status": 1,
+        "message_title": "Cập nhật phiên bản mới",
+        "message_body": "Phiên bản hiện tại không còn được hỗ trợ. Vui lòng tải phiên bản mới để tiếp tục sử dụng.",
+        "button_text": "TẢI NGAY",
+        "download_url": "https://play.google.com/store/apps/details?id=com.skintools_hh"
+    },
+    "appInfo": {
+        "appName": "HH MOD PRO",
+        "version": "Version 3.0",
+        "themeColor": "#0D1117",
+        "homeBanner": "https://i.pinimg.com/1200x/18/57/48/185748c541a4dea6db48280dea456568.jpg",
+        "password": "FREE2026MOD",
+        "passwordLink": "https://t.me/hhmodpro_official"
+    },
+    "games": [
         {
-            "id": "alok",
-            "name": "Khôi phục Alok gốc",
-            "downloadUrl": "https://drive.google.com/uc?export=download&id=1M45G09bRPM1BDIpZXEwApfRkDlynWkkK",
-            "icon": "https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/102000015.png"
+            "id": "freefireth",
+            "name": "FREE FIRE (ORI)"
         },
         {
-            "id": "ig",
-            "name": "Khôi phục Ignis gốc",
-            "downloadUrl": "https://drive.google.com/uc?export=download&id=1M45G09bRPM1BDIpZXEwApfRkDlynWkkK",
-            "icon": "https://img.upanh.tv/2026/02/08/ig_icon.png"
-        },
-        {
-            "id": "ak",
-            "name": "Khôi phục AK Rồng Xanh gốc",
-            "downloadUrl": "https://drive.google.com/uc?export=download&id=1M45G09bRPM1BDIpZXEwApfRkDlynWkkK",
-            "icon": "https://img.upanh.tv/2026/02/08/ak_icon.png"
-        },
-        {
-            "id": "kelly",
-            "name": "Khôi phục Kelly gốc",
-            "downloadUrl": "https://drive.google.com/uc?export=download&id=1M45G09bRPM1BDIpZXEwApfRkDlynWkkK",
-            "icon": "https://img.upanh.tv/2026/02/08/kelly_icon.png"
-        },
-        {
-            "id": "mp40",
-            "name": "Khôi phục MP40 gốc",
-            "downloadUrl": "https://drive.google.com/uc?export=download&id=1M45G09bRPM1BDIpZXEwApfRkDlynWkkK",
-            "icon": "https://cdn-bgp.bluestacks.com/BGP/us/gametiles_com.dts.freefiremax.jpg"
+            "id": "freefiremax",
+            "name": "FREE FIRE MAX"
         }
     ],
-    "ff_max": [
+    "socialHub": [
         {
-            "id": "guns_max",
-            "name": "Khôi phục Súng (MAX)",
-            "downloadUrl": "https://drive.google.com/uc?export=download&id=1M45G09bRPM1BDIpZXEwApfRkDlynWkkK",
-            "icon": "https://cdn.aptoide.com/imgs/9/9/7/997e1d6e250ce2b834dccfb4b10aef9e_fgraphic.jpg"
+            "id": "youtube",
+            "icon": "ic_social_youtube",
+            "url": "https://youtube.com/@adminxminhphong"
+        },
+        {
+            "id": "tiktok",
+            "icon": "ic_social_tiktok",
+            "url": "https://tiktok.com/@adminxminhphong"
+        },
+        {
+            "id": "discord",
+            "icon": "ic_social_discord",
+            "url": "https://discord.gg/hhmodpro"
+        },
+        {
+            "id": "telegram",
+            "icon": "ic_social_telegram",
+            "url": "https://t.me/hhmodpro_official"
+        }
+    ],
+    "installDialog": {
+        "videoThumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "title": "🔥 Cài Đặt Thành Công! 🔥",
+        "description": "Mod đã được áp dụng. Mở game để trải nghiệm!",
+        "watchButtonText": "Xem Video Hướng Dẫn",
+        "applyButtonText": "ÁP DỤNG",
+        "removeButtonText": "GỠ BỎ",
+        "noteText": "* Nếu mod không hoạt động, hãy xóa dữ liệu ứng dụng và thử lại."
+    },
+    "homeMenu": [
+        {
+            "id": "skin_gun",
+            "title": "SKIN SÚNG",
+            "subtitle": "Các skin súng cực đẹp",
+            "icon": "🔫",
+            "isVip": false,
+            "banner": "https://i.ytimg.com/vi/MpNQcDZjDkM/hq720.jpg"
+        },
+        {
+            "id": "skin_char",
+            "title": "SKIN NHÂN VẬT",
+            "subtitle": "Trang phục nhân vật thời thượng",
+            "icon": "👨",
+            "isVip": false,
+            "banner": "https://i.ytimg.com/vi/zRSck4a6wYE/hq720.jpg"
+        },
+        {
+            "id": "pack_mod",
+            "title": "PACK MOD",
+            "subtitle": "Combo nhiều mod trong 1 pack",
+            "icon": "🎒",
+            "isVip": true,
+            "banner": "https://oneesports.blob.core.windows.net/cdn-data/sites/4/2021/07/FreeFire_Skin_GalaxyDino-1024x576.jpg"
         }
     ]
 }
