@@ -3,31 +3,31 @@
         {
             "id": "alok",
             "name": "Khôi phục Alok gốc",
-            "downloadUrl": "https://drive.google.com/uc?export=download&id=1M45G09bRPM1BDIpZXEwApfRkDlynWkkK",
+            "url": "https://drive.google.com/uc?export=download&id=1M45G09bRPM1BDIpZXEwApfRkDlynWkkK",
             "icon": "https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/102000015.png"
         },
         {
             "id": "ig",
             "name": "Khôi phục Ignis gốc",
-            "downloadUrl": "https://drive.google.com/uc?export=download&id=1M45G09bRPM1BDIpZXEwApfRkDlynWkkK",
+            "url": "https://drive.google.com/uc?export=download&id=1M45G09bRPM1BDIpZXEwApfRkDlynWkkK",
             "icon": "https://img.upanh.tv/2026/02/08/ig_icon.png"
         },
         {
             "id": "ak",
             "name": "Khôi phục AK Rồng Xanh gốc",
-            "downloadUrl": "https://drive.google.com/uc?export=download&id=1M45G09bRPM1BDIpZXEwApfRkDlynWkkK",
+            "url": "https://drive.google.com/uc?export=download&id=1M45G09bRPM1BDIpZXEwApfRkDlynWkkK",
             "icon": "https://img.upanh.tv/2026/02/08/ak_icon.png"
         },
         {
             "id": "kelly",
             "name": "Khôi phục Kelly gốc",
-            "downloadUrl": "https://drive.google.com/uc?export=download&id=1M45G09bRPM1BDIpZXEwApfRkDlynWkkK",
+            "url": "https://drive.google.com/uc?export=download&id=1M45G09bRPM1BDIpZXEwApfRkDlynWkkK",
             "icon": "https://img.upanh.tv/2026/02/08/kelly_icon.png"
         },
         {
             "id": "mp40",
             "name": "Khôi phục MP40 gốc",
-            "downloadUrl": "https://drive.google.com/uc?export=download&id=1M45G09bRPM1BDIpZXEwApfRkDlynWkkK",
+            "url": "https://drive.google.com/uc?export=download&id=1M45G09bRPM1BDIpZXEwApfRkDlynWkkK",
             "icon": "https://cdn-bgp.bluestacks.com/BGP/us/gametiles_com.dts.freefiremax.jpg"
         }
     ],
@@ -35,7 +35,7 @@
         {
             "id": "guns_max",
             "name": "Khôi phục Súng (MAX)",
-            "downloadUrl": "https://drive.google.com/uc?export=download&id=1M45G09bRPM1BDIpZXEwApfRkDlynWkkK",
+            "url": "https://drive.google.com/uc?export=download&id=1M45G09bRPM1BDIpZXEwApfRkDlynWkkK",
             "icon": "https://cdn.aptoide.com/imgs/9/9/7/997e1d6e250ce2b834dccfb4b10aef9e_fgraphic.jpg"
         }
     ]
